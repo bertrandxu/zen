@@ -5,20 +5,6 @@ date: '2024-03-02 22:49:23'
 permalink: /post/readme-1uap9y.html
 published: true
 ---
-# README
-
----
-
-title: 梵我一如  
-date created: 2023-10-2  
-time created: 23:16  
-tag:
-
-* 梵
-* 佛教
-* 印度哲学
-
----
 
 # 第一章 原始瑜伽
 
