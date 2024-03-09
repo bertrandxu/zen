@@ -1,0 +1,19 @@
+{
+  "lang": "auto",
+  "apiType": "xml-rpc",
+  "endpoint": "http://192.168.0.3/wordpress",
+  "xmlRpcPath": "/xmlrpc.php",
+  "saveUsername": true,
+  "savePassword": true,
+  "showRibbonIcon": true,
+  "defaultPostStatus": "publish",
+  "defaultCommentStatus": "closed",
+  "lastSelectedCategories": [
+    6
+  ],
+  "rememberLastSelectedCategories": true,
+  "showWordPressEditConfirm": false,
+  "mathJaxOutputType": "svg",
+  "username": "bertrandxu",
+  "password": "@Bertrand2080"
+}

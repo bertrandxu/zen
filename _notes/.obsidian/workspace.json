@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "95dd37a3a11c675d",
+    "type": "split",
+    "children": [
+      {
+        "id": "65d8e240814df6d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dbf979f5677bf71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 专题 Projects/自组织/自组织管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1fffa761a41a198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 文献 Wiki/资料/工作/组织/政委及管理/【案例】我的华为HRBP实践：如何顺利融入新团队.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c5f5b3593c5d8e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 文献 Wiki/资料/禅/本来无一物，何处惹尘埃——惠能禅学思想初探.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93812a30aef8fca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a79d6002e23b5652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11c269a65e1322fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75ac57545dfd0081",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "阿里大政委",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b072e87a8a97059d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "right": {
+    "id": "75a8e183835a1474",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db7fe62809cdf5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5d22f760babf806",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 专题 Projects/自组织/自组织管理.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "644c2288b343bd29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03 专题 Projects/自组织/自组织管理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5f94f4cbec404b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4ef653512b9ea48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 专题 Projects/自组织/自组织管理.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
+    }
+  },
+  "active": "1dbf979f5677bf71",
+  "lastOpenFiles": [
+    "AboutTheGarden.md",
+    "04 文献 Wiki/资料/工作/组织/组织变革/【反思】鼓吹自组织、去中心化的人，都该读读这篇45年前 的文章.md",
+    "05 发文 Posts/组织建设理论之--XYZ理论，超Y理论.md",
+    "03 专题 Projects/自组织/自组织管理.md",
+    "04 文献 Wiki/资料/工作/组织/组织变革/【反思】转型丨自组织的迷思：失控、阴阳和熵.md",
+    "04 文献 Wiki/资料/工作/组织/企业文化/【理念】中非本论.md",
+    "04 文献 Wiki/资料/工作/组织/政委及管理/【案例】阿里大政委的工作安排主要聚焦在哪些方面？.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】让青春的火花 点燃无愧无悔的人生.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】蓬生麻中，不扶自直 —华为基于人性的代际管理.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】聚焦战略，简化管理，提高效益.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】管理进步三步曲——僵化、优化、固化.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】管理就需要吵得天翻地覆，看华为怎么吵！.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】破除狭隘 走向开放-谈华为的国际化、职业化、成熟化之路.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】研究任正非，必须看透这四篇文章！.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】烧不死的鸟是凤凰.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】深淘滩，低作堰.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】春风送暖入屠苏.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】敢于自我批判.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】收紧核心，放开周边，提高企业的生存能力.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】想进步的管理者要多读几遍.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】当管理水平超过经营水平，企业就离死不远了.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】干部要担负起公司价值观的传承.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】各级主管是人力资源管理第一责任人.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】华为铁三角.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】华为铁三角 1.md",
+    "04 文献 Wiki/资料/工作/华为/【观点】任正非：我对正职与副职的要求.md",
+    "04 文献 Wiki/资料/工作/华为",
+    "04 文献 Wiki/资料/工作/组织/政委及管理/【观点】阿里巴巴的“大政委”.pdf",
+    "04 文献 Wiki/资料/工作/组织/政委及管理/【案例】阿里巴巴的政委体系及其他.pdf",
+    "04 文献 Wiki/资料/工作/组织/政委及管理/【案例】阿里巴巴的政委宝典.pdf",
+    "04 文献 Wiki/资料/工作/组织/项目",
+    "04 文献 Wiki/资料/工作/组织/组织变革/韩都衣舍成功创业的秘诀：小组制2.0，大家都是二老板！.note",
+    "04 文献 Wiki/资料/工作/组织/组织变革/自组织团队管理研究.pdf.note",
+    "04 文献 Wiki/资料/工作/组织/组织变革/解读独角兽的“自组织”：协同完成复杂工作 Uber及Kakao的“3人模式”_新芽NewSeed.note",
+    "04 文献 Wiki/资料/工作/组织/组织变革/自组织化管理激活低层和边缘活力-组织经营-管理频道-中国人力资源开发网-中人网.note",
+    "04 文献 Wiki/资料/工作/组织/组织变革/海尔式大跃进：组织创新的陷阱.html.note",
+    "assets/images/关系图.svg",
+    "assets/关系图.svg",
+    "06 附件 Attachments/关系图.svg",
+    "06 附件 Attachments/assets/关系图.svg",
+    "06 附件 Attachments/白板 2024-03-04_2.svg",
+    "04 文献 Wiki/资料/禅思/assets/net-img-v2-f6bfa1bd4c63a42485763e61dcd75b09_1440w-20240101225927-a2v60vu.jpg",
+    "04 文献 Wiki/资料/禅思/assets/net-img-v2-cf642f3e3557d3f0db9193b55cff2dd2_1440w-20240101225927-g7o84mp.jpg",
+    "04 文献 Wiki/资料/禅思/assets/net-img-v2-ce61b3c455b4678af093db7bddaece7f_1440w-20240101225927-s7zum8o.jpg",
+    "04 文献 Wiki/资料/禅思/assets/net-img-v2-be0dbdd9bc4f9645bb2f0f9f3b43a0d4_1440w-20240101225927-bv6485d.jpg",
+    "04 文献 Wiki/资料/禅思/assets/net-img-v2-8f05c0a13e7e51839fe2ee20130eca3f_1440w-20240101225927-duhbciy.jpg"
+  ]
+}

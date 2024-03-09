@@ -1,0 +1,9 @@
+{
+  "enabledScrollToTop": true,
+  "enabledScrollToBottom": false,
+  "iconScrollToTop": "arrow-up",
+  "iconScrollToBottom": "arrow-down",
+  "showTooltip": true,
+  "scrollTopTooltipText": "Scroll to top",
+  "scrollBottomTooltipText": "Scroll to bottom"
+}

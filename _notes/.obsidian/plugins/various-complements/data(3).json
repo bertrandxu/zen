@@ -1,0 +1,215 @@
+{
+  "strategy": "default",
+  "matchStrategy": "partial",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "None",
+  "selectSuggestionKeys": "Tab",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": true,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "文化的三个特征：由生存结构决定，具有遮蔽效应": {
+      "文化的三个特征：由生存结构决定，具有遮蔽效应": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1675817809791
+        }
+      }
+    },
+    "建立自己的思维操作系统": {
+      "建立自己的思维操作系统": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675817825727
+        }
+      }
+    },
+    "拉康选集Écrits翻译1 On My Antecedents（关于我的经历）": {
+      "拉康选集Écrits翻译1 On My Antecedents（关于我的经历）": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1675817861498
+        }
+      }
+    },
+    "恋人和情人": {
+      "恋人和情人": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675818077188
+        }
+      }
+    },
+    "第一性原理：\r": {
+      "第一性原理：\r": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1676385988468
+        }
+      }
+    },
+    "第一性原理": {
+      "第一性原理": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676386134705
+        }
+      }
+    },
+    "精神分析": {
+      "精神分析": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676558414257
+        }
+      }
+    },
+    "自由意志": {
+      "自由意志": {
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1676647649291
+        }
+      }
+    },
+    "--戴面具（三星堆纵目），行为动作，礼仪，衣着，": {
+      "--戴面具（三星堆纵目），行为动作，礼仪，衣着，": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676596139654
+        }
+      }
+    },
+    "游戏心理": {
+      "游戏心理": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1676646694575
+        }
+      }
+    },
+    "认知心理": {
+      "认知心理": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1676647424833
+        }
+      }
+    },
+    "耗散结构理论": {
+      "耗散结构理论": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676815601129
+        }
+      }
+    },
+    "组织架构支撑": {
+      "组织架构支撑": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1676904925523
+        }
+      }
+    },
+    "提升组织销售力": {
+      "提升组织销售力": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1676904823220
+        }
+      }
+    },
+    "组织架构、预算、考核": {
+      "组织架构、预算、考核": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676904927234
+        }
+      }
+    },
+    "客户管理制度0328（显示屏事业部）.mmap": {
+      "客户管理制度0328（显示屏事业部）.mmap": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1676905035673
+        }
+      }
+    },
+    "销售管理者能力提升": {
+      "销售管理者能力提升": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676904978124
+        }
+      }
+    },
+    "管理客户关系": {
+      "管理客户关系": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1676986332829
+        },
+        "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1677459550498
+        }
+      }
+    },
+    "销售运营管理": {
+      "销售运营管理": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677027222987
+        }
+      }
+    },
+    "MCR": {
+      "MCR": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1677459554490
+        }
+      }
+    }
+  }
+}
