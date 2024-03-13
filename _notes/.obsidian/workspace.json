@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 专题 Projects/自组织/自组织管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1fffa761a41a198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 文献 Wiki/资料/工作/组织/政委及管理/【案例】我的华为HRBP实践：如何顺利融入新团队.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c5f5b3593c5d8e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 文献 Wiki/资料/禅/本来无一物，何处惹尘埃——惠能禅学思想初探.md",
+                "file": "04 文献 Wiki/概念卡/PKM/数字花园.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阿里大政委",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 226.5
   },
   "right": {
     "id": "75a8e183835a1474",
@@ -109,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 专题 Projects/自组织/自组织管理.md",
+                "file": "04 文献 Wiki/概念卡/PKM/数字花园.md",
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 专题 Projects/自组织/自组织管理.md",
+                "file": "04 文献 Wiki/概念卡/PKM/数字花园.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,16 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 专题 Projects/自组织/自组织管理.md"
+                "file": "04 文献 Wiki/概念卡/PKM/数字花园.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,42 +151,42 @@
   },
   "active": "1dbf979f5677bf71",
   "lastOpenFiles": [
+    "02 卡片笔记 Cards/认知卡/认知卡.md",
+    "03 专题 Projects/禅/悉达多.md",
+    "01 灵感 Input/日记/2024-03-13.md",
+    "01 灵感 Input/日记/2024-03-12.md",
+    "README.md",
     "AboutTheGarden.md",
-    "04 文献 Wiki/资料/工作/组织/组织变革/【反思】鼓吹自组织、去中心化的人，都该读读这篇45年前 的文章.md",
-    "05 发文 Posts/组织建设理论之--XYZ理论，超Y理论.md",
-    "03 专题 Projects/自组织/自组织管理.md",
-    "04 文献 Wiki/资料/工作/组织/组织变革/【反思】转型丨自组织的迷思：失控、阴阳和熵.md",
-    "04 文献 Wiki/资料/工作/组织/企业文化/【理念】中非本论.md",
-    "04 文献 Wiki/资料/工作/组织/政委及管理/【案例】阿里大政委的工作安排主要聚焦在哪些方面？.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】让青春的火花 点燃无愧无悔的人生.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】蓬生麻中，不扶自直 —华为基于人性的代际管理.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】聚焦战略，简化管理，提高效益.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】管理进步三步曲——僵化、优化、固化.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】管理就需要吵得天翻地覆，看华为怎么吵！.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】破除狭隘 走向开放-谈华为的国际化、职业化、成熟化之路.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】研究任正非，必须看透这四篇文章！.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】烧不死的鸟是凤凰.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】深淘滩，低作堰.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】春风送暖入屠苏.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】敢于自我批判.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】收紧核心，放开周边，提高企业的生存能力.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】想进步的管理者要多读几遍.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】当管理水平超过经营水平，企业就离死不远了.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】干部要担负起公司价值观的传承.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】各级主管是人力资源管理第一责任人.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】华为铁三角.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】华为铁三角 1.md",
-    "04 文献 Wiki/资料/工作/华为/【观点】任正非：我对正职与副职的要求.md",
+    "HOMEPAGE.md",
+    "DG structure.md",
+    "02 卡片笔记 Cards/认知卡/东洋的“无”.md",
+    "04 文献 Wiki/资料/禅/京都学派久松真一的禅观：理解与评论(下).md",
+    "04 文献 Wiki/资料/禅/京都学派久松真一的禅观：理解与评论(上).md",
+    "02 卡片笔记 Cards/认知卡/梵我一如.md",
+    "04 文献 Wiki/资料/禅/这心不是认识心，不是道德心，不是艺术的欣趣心，更不是经验惯习的情识，而是上求救赎的宗教解脱心.md",
+    "04 文献 Wiki/概念卡/禅/遮诠法.md",
+    "02 卡片笔记 Cards/认知卡/想弄清楚的几个问题.md",
+    "02 卡片笔记 Cards/认知卡/头脑里的主.md",
+    "02 卡片笔记 Cards/认知卡/认知缺陷.md",
+    "02 卡片笔记 Cards/认知卡/能量和信息之间什么关系呢？.md",
+    "02 卡片笔记 Cards/认知卡/第一性原理.md",
+    "04 文献 Wiki/资料/认知/哲学/维特根斯坦：必须保持沉默.md",
+    "04 文献 Wiki/概念卡/禅/湿婆.md",
+    "04 文献 Wiki/概念卡/禅/双重意识(Bicameral Mind).md",
+    "05 发文 Posts/建立自己的思维操作系统.md",
+    "04 文献 Wiki/资料/认知/哲学",
+    "04 文献 Wiki/资料/认知/新建文件夹",
+    "04 文献 Wiki/资料/认知",
+    "04 文献 Wiki/资料/新建文件夹",
+    "04 文献 Wiki/概念卡/PKM/数字花园.md",
+    "04 文献 Wiki/资料/禅/本来无一物，何处惹尘埃——惠能禅学思想初探.md",
+    "04 文献 Wiki/资料/工作/组织/政委及管理/【案例】我的华为HRBP实践：如何顺利融入新团队.md",
     "04 文献 Wiki/资料/工作/华为",
     "04 文献 Wiki/资料/工作/组织/政委及管理/【观点】阿里巴巴的“大政委”.pdf",
     "04 文献 Wiki/资料/工作/组织/政委及管理/【案例】阿里巴巴的政委体系及其他.pdf",
     "04 文献 Wiki/资料/工作/组织/政委及管理/【案例】阿里巴巴的政委宝典.pdf",
     "04 文献 Wiki/资料/工作/组织/项目",
     "04 文献 Wiki/资料/工作/组织/组织变革/韩都衣舍成功创业的秘诀：小组制2.0，大家都是二老板！.note",
-    "04 文献 Wiki/资料/工作/组织/组织变革/自组织团队管理研究.pdf.note",
-    "04 文献 Wiki/资料/工作/组织/组织变革/解读独角兽的“自组织”：协同完成复杂工作 Uber及Kakao的“3人模式”_新芽NewSeed.note",
-    "04 文献 Wiki/资料/工作/组织/组织变革/自组织化管理激活低层和边缘活力-组织经营-管理频道-中国人力资源开发网-中人网.note",
-    "04 文献 Wiki/资料/工作/组织/组织变革/海尔式大跃进：组织创新的陷阱.html.note",
     "assets/images/关系图.svg",
     "assets/关系图.svg",
     "06 附件 Attachments/关系图.svg",
