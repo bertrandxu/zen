@@ -1,5 +1,5 @@
 ---
-title: 通过NextChat低成本给自己或客户部署GPT程序
+title: 通过NextChat部署GPT程序
 date created: 2024-03-17
 date modified: 2024-03-17
 tags:
